@@ -8,9 +8,9 @@
     line-height: var(--header-height);
 }
 
-.headbox {
+/* .headbox {
     background-color: black;
-}
+} */
 
 .nav a {
     display: block;
