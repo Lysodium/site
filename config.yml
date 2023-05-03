@@ -1,4 +1,4 @@
-baseURL: 'leonzhou.xyz'
+baseURL: 'http://www.leonzhou.xyz/'
 languageCode: 'en-us'
 title: 'Leon Zhou'
 theme: 'PaperMod'
@@ -9,7 +9,7 @@ params:
         title: "Leon Zhou" # optional default will be site title
         subtitle: "Current student at Columbia University 🎓"
         imageUrl: "/profile.png" # optional
-        imageTitle: "<title of image as alt>" # optional
+        imageTitle: "Leon Zhou" # optional
         imageWidth: 300 # custom size
         imageHeight: 300 # custom size
         buttons:
