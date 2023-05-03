@@ -13,13 +13,13 @@
 body#top.list.dark{
     background-image: url("/dark.jpg");
     background-repeat: no-repeat;
-    background-size: stretch;
+    background-size: cover;
 
 }
 body#top.list{
     background-image: url("/backie.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 
 }
 
