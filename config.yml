@@ -1,0 +1,30 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Leon Zhou'
+theme: 'PaperMod'
+
+params:
+    profileMode:
+        enabled: true
+        title: "Leon Zhou" # optional default will be site title
+        subtitle: "Current student at Columbia University 🎓"
+        imageUrl: "/profile.png" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 300 # custom size
+        imageHeight: 300 # custom size
+        buttons:
+          - name: Archive
+            url: "/archive"
+          - name: Github
+            url: "https://github.com/lysodium"
+
+    socialIcons: # optional
+        - name: "Instagram"
+          url: "https://www.instagram.com/leone_zhou"
+        - name: "<platform 2>"
+          url: "<link2>"
+    outputs:
+        home:
+            - HTML
+            - RSS
+            - JSON # is necessary
