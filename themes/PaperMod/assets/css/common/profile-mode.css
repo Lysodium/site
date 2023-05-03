@@ -10,6 +10,12 @@
     text-align: center;
 }
 
+body#top.list.dark{
+    background-image: url("/dark.jpg");
+    background-repeat: no-repeat;
+    background-size: stretch;
+
+}
 body#top.list{
     background-image: url("/backie.jpg");
     background-repeat: no-repeat;
