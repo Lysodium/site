@@ -14,6 +14,20 @@ minify:
   disableXML: true
   minifyOutput: true
 
+assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+label:
+    text: "Leon Zhou"
+    icon: "/home.png"
+    iconHeight: 35
+
 menu:
       main:
         - identifier: About
@@ -40,7 +54,7 @@ outputs:
       home:
           - HTML
           - RSS
-            - JSON # is necessary
+          - JSON # is necessary
 params:
 
     DateFormat: "January 2, 2006"
@@ -60,20 +74,7 @@ params:
     showtoc: false
     tocopen: false
 
-    assets:
-      # disableHLJS: true # to disable highlight.js
-      # disableFingerprinting: true
-      favicon: "<link / abs url>"
-      favicon16x16: "<link / abs url>"
-      favicon32x32: "<link / abs url>"
-      apple_touch_icon: "<link / abs url>"
-      safari_pinned_tab: "<link / abs url>"
-   
-    label:
-        text: "Home"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
-
+  
     profileMode:
         enabled: true
         title: "Leon Zhou" # optional default will be site title
