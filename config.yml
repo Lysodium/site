@@ -28,9 +28,22 @@ label:
     icon: "/home.png"
     iconHeight: 35
 
+pygmentsUseClasses: true
+markup:
+  goldmark:
+    renderer: 
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
 menu:
       main:
-        - identifier: About
+        - identifier: about
           name: About
           url: /about/
           weight: 10
@@ -38,9 +51,9 @@ menu:
           name: Blog
           url: /blog
           weight: 20
-        - identifier: projects
-          name: Projects
-          url: /projects
+        - identifier: notes
+          name: Notes
+          url: /notes
           weight: 30
         - identifier: experience
           name: Experience
@@ -97,12 +110,4 @@ params:
         - name: "cv"
           url: "/resume/Resume.pdf"
    
-    pygmentsUseClasses: true
-    markup:
-      highlight:
-        noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
+ 

@@ -20,7 +20,7 @@ body#top.list{
     background-image: url("/backie.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
+    background-position: top center;
 }
 
 .profile .profile_inner h1 {
