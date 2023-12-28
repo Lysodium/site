@@ -1,7 +1,7 @@
 ---
 title: "Experiences" # in any language you want
 layout: "single" # is necessary
-# url: "/archive"
+url: "/experience"
 # description: "Filter Tags by specific keywords"
 summary: "experience"
 placeholder: "My past skills and experiences"
