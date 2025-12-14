@@ -91,11 +91,11 @@ params:
     profileMode:
         enabled: true
         title: "Leon Zhou" # optional default will be site title
-        subtitle: "Current student at Columbia University 🎓"
+        subtitle: "Recent graduate from Columbia University 🎓"
         imageUrl: "/profile.png" # optional
         imageTitle: "Leon Zhou" # optional
-        imageWidth: 300 # custom size
-        imageHeight: 300 # custom size
+        imageWidth: 30% # custom size
+        imageHeight: 30% # custom size
         buttons:
           - name: Blog
             url: "/blog"
