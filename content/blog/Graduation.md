@@ -1,7 +1,7 @@
 ---
 author: Leon Zhou
 title: Graduation
-date: 2022-05-13
+date: 2023-05-13
 description: Graduating Columbia College
 math: true
 ---
