@@ -12,9 +12,6 @@ cover:
 
 A column of NYPD officers marches across the intersection of Broadway and West 116th Street, directly outside Columbia University's main gates, on the afternoon of April 18, 2024. Metal crowd-control barricades line the perimeter as onlookers, students, and members of the press watch from the sidewalk near Miller Theatre and the steps leading up to campus.
 
-![NYPD officers crossing Broadway at W 116th St outside Columbia University](/blog/columbia-protests/nypd-116th-street.jpg)
-*NYPD officers cross Broadway at W 116th Street outside Columbia University's Morningside Heights campus. Barricades separate crowds from the roadway as buses and police vehicles stage in the background. April 18, 2024.*
-
 ![Hundreds of students gather on the lawn in front of Butler Library](/blog/columbia-protests/butler-lawn-crowd.jpg)
 *Hundreds of students mass on the lawn in front of Butler Library earlier that day, the names of Homer, Herodotus, Sophocles, Plato, Aristotle, and others inscribed on the facade above them. A Palestinian flag rises from the crowd. April 18, 2024.*
 

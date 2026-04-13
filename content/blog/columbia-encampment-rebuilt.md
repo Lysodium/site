@@ -12,9 +12,6 @@ cover:
 
 Less than 24 hours after the NYPD cleared the original Gaza Solidarity Encampment and arrested more than 100 students, Columbia protesters had already reoccupied the lawn in front of Butler Library.
 
-![The Gaza Solidarity Encampment in front of Butler Library](/blog/columbia-protests/encampment-butler-lawn.jpg)
-*Palestinian flags and hand-painted signs cover the grass in front of Butler Library as students gather at the rebuilt Gaza Solidarity Encampment on West Butler Lawn. The library's facade, inscribed with the names of Sophocles, Plato, Aristotle, Demosthenes, Cicero, and Virgil, glows behind them. April 19, 2024.*
-
 By dusk on April 19, the new encampment on West Butler Lawn was fully established. A large banner reading "Gaza Solidarity Encampment" stretched across its center, flanked by Palestinian flags. Handmade signs reading "Join Us," "Stop Bombing," and calls for the university to divest from companies tied to the war in Gaza were laid across the grass. Dozens of students sat among blankets, bags, and supplies, settling in for what would become a nearly two-week occupation.
 
 The previous day's mass arrest — the first time Columbia had authorized police to suppress a protest since 1968 — had drawn national attention and widespread condemnation from faculty, who staged a walkout in solidarity. Rather than dispersing the movement, the arrests galvanized it.

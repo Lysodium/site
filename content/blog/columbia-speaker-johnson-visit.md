@@ -12,9 +12,6 @@ cover:
 
 One week after the first mass arrests on Columbia's campus, the protest had drawn the attention of the most powerful figure in the House of Representatives. On April 24, Speaker Mike Johnson traveled to Morningside Heights and held a press conference on the steps of Low Library — just yards from the encampment he came to condemn.
 
-![House Speaker Mike Johnson at the podium surrounded by press microphones and lawmakers](/blog/columbia-protests/johnson-presser-podium.jpg)
-*Speaker Mike Johnson addresses a bank of microphones on the steps of Low Library. Republican lawmakers stand behind him as journalists and camera operators press in from every side. April 24, 2024.*
-
 Johnson, flanked by Republican members of Congress, called on President Shafik to resign and suggested that the National Guard could be called in to restore order if the university could not. He described the encampment as a threat to Jewish students and accused the administration of failing to act. The remarks echoed the congressional pressure that had already forced the resignations of the presidents of Harvard and Penn earlier in the academic year.
 
 The visit drew an extraordinary concentration of media to campus. Earlier that afternoon, the press corps had assembled near the Alma Mater statue at the center of Columbia's main quad, cameras and telephoto lenses pointed in every direction.

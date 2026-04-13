@@ -12,9 +12,6 @@ cover:
 
 While the Gaza Solidarity Encampment held its ground on Columbia's lawns, the protest movement was spilling into the streets of Morningside Heights. Marchers carried their demands past the university's perimeter, stopping outside Pulitzer Hall — home of the Columbia Journalism School — to display a banner aimed not at the university but at a different institution entirely.
 
-![Protesters outside Pulitzer Hall with a banner targeting the American Medical Association](/blog/columbia-protests/pulitzer-hall-banner.jpg)
-*Demonstrators hold a banner outside Pulitzer Hall reading "33,000+ Killed / 14,000+ Children / 450+ HCWs / 7 Months of Complicity from the American Med. Assoc." Red handprints mark the fabric. A Palestinian flag flies overhead while a display of photographs lines the barricades on either side. April 20, 2024.*
-
 The banner read: "33,000+ Killed / 14,000+ Children / 450+ HCWs / 7 Months of Complicity from the American Med. Assoc." — a reference to the toll on Palestinian healthcare workers in Gaza and the American Medical Association's silence on the crisis. Red handprints were stamped across the white fabric. On either side, long strips of printed photographs — portraits of those killed — were held up along the metal barricades outside the building's iron gates, the word "PULITZER" engraved in stone above.
 
 The protest was part of a broader pattern in the days following the April 18 mass arrests: demonstrations that had been confined to Columbia's campus were now radiating outward, drawing participants from across the city and targeting institutions beyond the university.

@@ -12,9 +12,6 @@ cover:
 
 By April 25, the confrontation at Columbia University had become a two-sided spectacle. As the Gaza Solidarity Encampment entered its second week on the lawns inside campus, a large pro-Israel counter-rally gathered on Broadway outside the university's gates — filling the street with Israeli and American flags under the watch of the NYPD.
 
-![Pro-Israel counter-protesters fill Broadway at W 116th Street with flags](/blog/columbia-protests/counter-rally-broadway.jpg)
-*Hundreds of pro-Israel demonstrators crowd Broadway at the intersection of W 116th Street. Israeli and American flags fly above the crowd. An NYPD Department of Correction bus is parked at the intersection, and police officers stand at the crosswalk. The avenue stretches south toward Midtown in the fading light. April 25, 2024.*
-
 Seen from above, the scale of the counter-rally was unmistakable. The crowd stretched down Broadway from the university's entrance, hemmed in by the stone and brick facades of Morningside Heights. Blue-and-white Israeli flags outnumbered the American flags roughly two to one. An NYPD Corrections bus sat parked at the W 116th Street intersection — a reminder that the department had come prepared for arrests if the two sides clashed.
 
 ![A woman shouts while holding up her phone, surrounded by Israeli flags and an NYPD officer](/blog/columbia-protests/counter-protester-flags.jpg)
